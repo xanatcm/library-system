@@ -1,0 +1,4 @@
+django==3.2.0
+djangorestframework==3.13.1
+djangorestframeworksimplejwt==5.2.0
+djangofilter==21.1
